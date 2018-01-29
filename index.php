@@ -61,7 +61,7 @@
             <li><a href="#">Home</a></li>
             <li>Basic</li>
           </ol>
-          <h1>Welcome to an OpenShift Application!</h1>
+          <h1>Welcome to Duchess France !</h1>
           <p>The purpose of this application is to demonstrate several interesting features about OpenShift. We hope you enjoy it!</p>
         </div>
       </div>
@@ -90,7 +90,8 @@
         <div class="col-md-6 col-md-offset-3">
           <h2>Application Example</h2>
           <p>
-            <img src="redrose.jpeg">
+            <img src="http://www.jduchess.org/image/layout_set_logo?img_id=10601&t=1514130889268">
+            <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Duke_%28Java_mascot%29_waving.svg/1000px-Duke_%28Java_mascot%29_waving.svg.png"> -->
           </p>
         </div>
       </div>
