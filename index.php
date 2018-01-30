@@ -90,8 +90,10 @@
         <div class="col-md-6 col-md-offset-3">
           <h2>Application Example</h2>
           <p>
+       
             <img src="http://www.jduchess.org/image/layout_set_logo?img_id=10601&t=1514130889268">
             <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Duke_%28Java_mascot%29_waving.svg/1000px-Duke_%28Java_mascot%29_waving.svg.png"> -->
+            <img src=bluerose.jpeg/>
           </p>
         </div>
       </div>
