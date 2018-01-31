@@ -4,7 +4,7 @@
 <html>
 <!--<![endif]-->
   <head>
-    <title>Basic - PatternFly</title>
+    <title>Duchess France</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="../dist/img/favicon.ico">
     <!-- iPad retina icon -->
@@ -94,9 +94,9 @@
 <!--            <img src="http://www.jduchess.org/image/layout_set_logo?img_id=10601&t=1514130889268">
 -->
             <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Duke_%28Java_mascot%29_waving.svg/1000px-Duke_%28Java_mascot%29_waving.svg.png"> -->
-  <!--          <img src="bluerose.jpeg"/>
--->
-	<img src="redrose.jpeg"/>
+          <img src="bluerose.jpeg"/>
+
+<!--	<img src="redrose.jpeg"/> -->
           </p>
         </div>
       </div>
